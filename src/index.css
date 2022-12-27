@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button{
+  background-color: green;
+  color: aliceblue;
+  height: 2rem;
+}
+
+img{
+  border-radius: 50%;
+}
+
+p{
+  color:red
+}
