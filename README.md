@@ -1,5 +1,4 @@
-# Getting Started with Create React App
-
+Herkese Merhaba,
 
 
 #Bu çalışmada React 'ta  useReducer Hook'unun kullanımı gösterilmiştir.
