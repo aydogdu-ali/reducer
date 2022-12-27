@@ -30,10 +30,7 @@ const UseReducerExample = () => {
       // setError("DATA CAN NOT BE FETCHED");
       // setUserImage("");
       dispatch({ type: "FAIL", payload: "DATA CAN NOT BE FETCHED" });
-    } finally {
-      // setLoading(false);
-      dispatch({ type: "START" });
-    }
+    } 
   };
   // console.log(error);
   // console.log(userImage);

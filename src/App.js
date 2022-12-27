@@ -1,7 +1,7 @@
 
 import './App.css';
 // import UseStateExample from './component/useStateExample';
-import UseReducerExample from './component/useStateExample';
+import UseReducerExample from './component/UseReducerExample';
 
 function App() {
   return (
