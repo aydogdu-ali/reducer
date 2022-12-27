@@ -34,15 +34,15 @@ const useStateExample = () => {
     <div> 
     <button
       onClick={getUser}
-      {/*Butona tıklandığınca veri gelene kadar ya da hata mesajı gelenekadar buton pasif olacak */}
+      // {/*Butona tıklandığınca veri gelene kadar ya da hata mesajı gelenekadar buton pasif olacak */}
       disabled={loading}
       style={{ display: "block", margin: "1rem auto" }}
     >
       Get User Image
     </button>
-    {/*Hata olursa hata mesajını gösterecek.*/}
+    {/* Hata olursa hata mesajını gösterecek.*/ }
     {error && <h2>{error}</h2>}
-    
+
     {userImage && <img width="15%" src={userImage.picture?.medium} alt="img" />
     }
     {userImage && <p>  {userImage.name.first} {userImage.name.last}</p> }
