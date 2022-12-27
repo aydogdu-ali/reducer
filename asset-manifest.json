@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/aydogdu-ali/reducer/static/css/main.122bbbe6.css",
-    "main.js": "/aydogdu-ali/reducer/static/js/main.4060e898.js",
-    "index.html": "/aydogdu-ali/reducer/index.html",
-    "main.122bbbe6.css.map": "/aydogdu-ali/reducer/static/css/main.122bbbe6.css.map",
-    "main.4060e898.js.map": "/aydogdu-ali/reducer/static/js/main.4060e898.js.map"
+    "main.css": "/reducer/static/css/main.122bbbe6.css",
+    "main.js": "/reducer/static/js/main.4060e898.js",
+    "index.html": "/reducer/index.html",
+    "main.122bbbe6.css.map": "/reducer/static/css/main.122bbbe6.css.map",
+    "main.4060e898.js.map": "/reducer/static/js/main.4060e898.js.map"
   },
   "entrypoints": [
     "static/css/main.122bbbe6.css",
