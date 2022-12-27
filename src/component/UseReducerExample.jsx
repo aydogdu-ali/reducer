@@ -1,7 +1,7 @@
 
 import { useState } from "react";
 
-const useStateExample = () => {
+const UseReducerExample = () => {
 
 
     // APIDEN VERİ ÇEKME DE KULLANACAĞIM STATLERİ TANIMLADIM.
@@ -48,7 +48,7 @@ const useStateExample = () => {
   )
 }
 
-export default useStateExample
+export default UseReducerExample
 
 
 

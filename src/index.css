@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+ 
 }
 
 code {
@@ -13,13 +14,14 @@ code {
 }
 
 button{
-  background-color: green;
-  color: aliceblue;
+ 
   height: 2rem;
+ 
 }
 
 img{
   border-radius: 50%;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.4);
 }
 
 p{
