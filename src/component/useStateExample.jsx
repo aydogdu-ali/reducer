@@ -43,6 +43,7 @@ const useStateExample = () => {
     {/* Hata olursa hata mesajını gösterecek.*/ }
     {error && <h2>{error}</h2>}
 
+{/*Butuna tıklandığında kullanıcıyı getirecek*/}
     {userImage && <img width="15%" src={userImage.picture?.medium} alt="img" />
     }
     {userImage && <p>  {userImage.name.first} {userImage.name.last}</p> }
